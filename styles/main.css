@@ -1,0 +1,81 @@
+body {
+  font-size: 1.5em;
+  background: url(images/rive1.png) top center no-repeat;
+}
+
+
+
+#recap {
+  border : 1px solid red;
+  max-height: 90vh;
+}
+
+/* Page index
+*/
+.jj img {
+  width: 100px;}
+
+.jacquesetcharlotte img {
+  width: 100px;}
+
+.jacquelineetcharlotte img {
+  width: 100px;}
+
+.jacquesetmichel img {
+  width: 100px;}
+
+
+  /* Choix1
+  */
+.jacques img {
+  width: 100px;}
+
+  .jacqueline img {
+    width: 100px;}
+
+    /* Choix1a
+    */
+.charlesetcharlotte img {
+  width: 100px;}
+
+.charlotteetmicheline  img {
+  width: 100px;}
+
+.charlesetmichel img {
+  width: 100px;}
+
+  /* Choix1a1
+  */
+.micheline img {
+  width: 100px;}
+
+.charlotte img {
+  width: 100px;}
+
+  /* Choix1a1
+  */
+
+.charlesetjacques img {
+  width: 100px;}
+
+  /* Choix1a1a1
+  */
+.charlesetmicheline img {
+  width: 100px;}
+
+  /* Choix1a1a1a
+  */
+.charlesetjacqueline img {
+  width: 100px;}
+
+
+  .left-bank {
+    float : left;
+    max-width: 40%;
+  }
+
+
+  .right-bank {
+    float : right;
+    max-width: 40%;
+  }
